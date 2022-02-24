@@ -10,6 +10,7 @@ contributors can be involved in decision making.
 
 ## Vocabulary
 
+
 * A **Contributor** is any individual creating or commenting on an issue or pull request.
 * A **Committer** is a subset of contributors who have been given write access to the repository.
 * A **TC (Technical Committee)** is a group of committers representing the required technical
